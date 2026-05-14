@@ -1,6 +1,6 @@
 cask "copiscope" do
-  version "1.1.1"
-  sha256 "aa916f1099d168e770afad88b28e2db783d1aaa542dc3a13f7a10ee924b7004d"
+  version "1.1.2"
+  sha256 "7e0c9c59c00916073fb2b50ece678535662ae4d823ddf875e00c14ae0050f434"
 
   url "https://github.com/YoavLax/Copiscope/releases/download/v#{version}/Copiscope-#{version}.dmg"
   name "Copiscope"
